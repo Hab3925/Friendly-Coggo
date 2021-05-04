@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "enmap": "^5.8.4"
+    "enmap": "^5.8.4",
+    "superagent": "^6.1.0"
   },
   "devDependencies": {},
   "scripts": {

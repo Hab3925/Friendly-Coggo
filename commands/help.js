@@ -39,7 +39,7 @@ module.exports.run = async (client, message, args, prefix, con, table, permLvl )
     let embed = new Discord.MessageEmbed()
     .setTimestamp()
     .setColor('#C54816')
-    .setFooter('The Captain', client.user.avatarURL({format:'png',size:2048}))
+    .setFooter('Friendly Coggo', client.user.avatarURL({format:'png',size:2048}))
     if(message.guild.id == '444244464903651348') embed.addField('Volcanoids related:', volccmds.join('\n'))
     embed.addField('Miscellaneous', misc.join('\n'))
     .addField('Rank commands:', rankcmds.join('\n'));
