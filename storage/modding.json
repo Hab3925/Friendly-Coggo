@@ -1,268 +1,175 @@
 {
-  "baseURL": "https://modding.melodicalbuild.me/",
-  "data": [
-    {
-      "id": "coding",
-      "searchTerms": ["coding", "Coding"],
-      "url": "coding/",
-      "data": [
+    "baseURL": "https://modding.melodicalbuild.me/",
+    "data": [
         {
-          "id": "fullGuide",
-          "searchTerms": ["FullGuide", "fullguide", "Fullguide", "fullGuide"],
-          "url": "coding/fullGuide/",
-          "data": [
-            {
-              "id": "Introduction",
-              "searchTerms": ["introduction", "Introduction"],
-              "url": "Introduction"
-            },
-            {
-              "id": "TheBeginning",
-              "searchTerms": [
-                "TheBeginning",
-                "thebeginning",
-                "Thebeginning",
-                "theBeginning",
-                "Beginning",
-                "beginning"
-              ],
-              "url": "coding/fullGuide/gettingStarted/TheBeginning"
-            },
-            {
-              "id": "RequiredTools",
-              "searchTerms": [
-                "RequiredTools",
-                "requiredTools",
-                "Requiredtools",
-                "Requirements",
-                "requirements",
-                "tools",
-                "Tools"
-              ],
-              "url": "coding/fullGuide/gettingStarted/RequiredTools"
-            },
-            {
-              "id": "GettingStarted",
-              "searchTerms": [
-                "GettingStarted",
-                "gettingStarted",
-                "gettingstarted",
-                "Gettingstarted"
-              ],
-              "url": "coding/fullGuide/gettingStarted/GettingStarted"
-            },
-            {
-              "id": "ProjectSetup",
-              "searchTerms": [
-                "ProjectSetup",
-                "Projectsetup",
-                "projectsetup",
-                "projectSetup",
-                "Setup",
-                "setup"
-              ],
-              "url": "coding/fullGuide/gettingStarted/ProjectSetup"
-            },
-            {
-              "id": "BasicMod",
-              "searchTerms": [
-                "FirstMod",
-                "firstMod",
-                "Firstmod",
-                "firstmod",
-                "basicmod",
-                "Basicmod",
-                "BasicMod"
-              ],
-              "url": "coding/fullGuide/gettingStarted/BasicMod"
-            }
-          ]
+            "id": "coding",
+            "searchTerms": ["coding"],
+            "url": "coding/"
         },
         {
-          "id": "officialGuide",
-          "searchTerms": [
-            "OfficialGuide",
-            "officialGuide",
-            "Officialguide",
-            "officialguide"
-          ],
-          "url": "coding/officialGuide/",
-          "data": [
-            {
-              "id": "Info",
-              "searchTerms": ["Info", "info"],
-              "url": "coding/officialGuide/Info"
-            },
-            {
-              "id": "RequiredTools",
-              "searchTerms": [
-                "RequiredTools",
-                "requiredTools",
-                "Requiredtools",
-                "Requirements",
-                "requirements",
-                "tools",
-                "Tools"
-              ],
-              "url": "coding/officialGuide/RequiredTools"
-            },
-            {
-              "id": "ProjectSetup",
-              "searchTerms": [
-                "ProjectSetup",
-                "Projectsetup",
-                "projectsetup",
-                "projectSetup",
-                "Setup",
-                "setup"
-              ],
-              "url": "coding/officialGuide/ProjectSetup"
-            },
-            {
-              "id": "BuildRun",
-              "searchTerms": ["BuildRun", "buildRun", "Buildrun", "buildrun"],
-              "url": "coding/officialGuide/BuildRun"
-            },
-            {
-              "id": "FirstMod",
-              "searchTerms": ["FirstMod", "firstMod", "Firstmod", "firstmod"],
-              "url": "coding/officialGuide/FirstMod"
-            },
-            {
-              "id": "Debugging",
-              "searchTerms": ["Debugging", "debugging"],
-              "url": "coding/officialGuide/Debugging"
-            },
-            {
-              "id": "GameModding",
-              "searchTerms": [
-                "GameModding",
-                "gameModding",
-                "Gamemodding",
-                "gamemodding"
-              ],
-              "url": "coding/officialGuide/GameModding"
-            },
-            {
-              "id": "FinalWords",
-              "searchTerms": [
-                "FinalWords",
-                "finalWords",
-                "Finalwords",
-                "finalwords"
-              ],
-              "url": "coding/officialGuide/FinalWords"
-            }
-          ]
+            "id": "designing",
+            "searchTerms": ["designing", "designer"],
+            "url": "designing/"
         },
         {
-          "id": "Snippits",
-          "searchTerms": ["Snippits", "snippits"],
-          "url": "coding/snippits",
-          "data": [
-            {
-              "id": "EditingQuests",
-              "searchTerms": [
-                "EditingQuests",
-                "editingQuests",
-                "Editingquests",
-                "editingquests"
-              ],
-              "url": "coding/snippits/EditingQuests"
-            },
-            {
-              "id": "StationUIText",
-              "searchTerms": ["StationUIText"],
-              "url": "coding/snippits/StationUIText"
-            }
-          ]
+            "id": "docs",
+            "url": "docs/",
+            "searchTerms": ["docs", "InstallingMods"]
         },
         {
-          "id": "reference",
-          "searchTerms": ["Reference", "reference"],
-          "url": "coding/reference",
-          "data": [
-            {
-              "id": "ItemIDs",
-              "searchTerms": ["ItemIDs", "itemids"],
-              "url": "coding/reference/ItemIDs"
-            },
-            {
-              "id": "ModuleIDs",
-              "searchTerms": ["ModuleIDs", "moduleids"],
-              "url": "coding/reference/ModuleIDs"
-            },
-            {
-              "id": "RecipeIDs",
-              "searchTerms": ["RecipeIDs", "recipeids"],
-              "url": "coding/reference/RecipeIDs"
-            },
-            {
-              "id": "RecipeTimes",
-              "searchTerms": ["RecipeTimes", "recipetimes"],
-              "url": "coding/reference/RecipeTimes"
-            },
-            {
-              "id": "ItemStacks",
-              "searchTerms": ["ItemStacks", "itemstacks"],
-              "url": "coding/reference/ItemStacks"
-            },
-            {
-              "id": "QuestOrder",
-              "searchTerms": ["QuestOrder", "questorder"],
-              "url": "coding/reference/QuestOrder"
-            },
-            {
-              "id": "GUID",
-              "searchTerms": ["GUID", "guid"],
-              "url": "coding/reference/GUID",
-              "data": [
-                {
-                  "id": "ItemGUIDs",
-                  "searchTerms": ["ItemGUIDs", "itemguids"],
-                  "url": "coding/reference/GUID/ItemGUIDs"
-                },
-                {
-                  "id": "ModuleGUIDs",
-                  "searchTerms": ["ModuleGUIDs", "moduleguids"],
-                  "url": "coding/reference/GUID/ModuleGUIDs"
-                },
-                {
-                  "id": "RecipeGUIDs",
-                  "searchTerms": ["RecipeGUIDs", "recipeguids"],
-                  "url": "coding/reference/GUID/RecipeGUIDs"
-                }
-              ]
-            }
-          ]
+            "id": "fullGuide",
+            "searchTerms": ["FullGuide"],
+            "url": "coding/fullGuide/"
+        },
+        {
+            "id": "officialGuide",
+            "searchTerms": ["OfficialGuide"],
+            "url": "coding/officialGuide/"
+        },
+        {
+            "id": "EditingQuests",
+            "searchTerms": ["EditingQuests"],
+            "url": "coding/snippits/EditingQuests"
+        },
+        {
+            "id": "StationUIText",
+            "searchTerms": ["StationUIText"],
+            "url": "coding/snippits/StationUIText"
+        },
+        {
+            "id": "Snippits",
+            "searchTerms": ["Snippits"],
+            "url": "coding/snippits"
+        },
+        {
+            "id": "reference",
+            "searchTerms": ["Reference"],
+            "url": "coding/reference"
+        },
+        {
+            "id": "ModList",
+            "searchTerms": ["ModList", "Modlist", "modList", "modlist"],
+            "url": "docs/ModList"
+        },
+        {
+            "id": "Introduction",
+            "searchTerms": ["introduction"],
+            "url": "Introduction"
+        },
+        {
+            "id": "TheBeginning",
+            "searchTerms": ["TheBeginning", "Beginning"],
+            "url": "coding/fullGuide/gettingStarted/TheBeginning"
+        },
+        {
+            "id": "RequiredTools",
+            "searchTerms": ["RequiredTools", "Requirements", "tools"],
+            "url": "coding/fullGuide/gettingStarted/RequiredTools"
+        },
+        {
+            "id": "GettingStarted",
+            "searchTerms": ["GettingStarted"],
+            "url": "coding/fullGuide/gettingStarted/GettingStarted"
+        },
+        {
+            "id": "ProjectSetup",
+            "searchTerms": ["ProjectSetup", "Setup"],
+            "url": "coding/fullGuide/gettingStarted/ProjectSetup"
+        },
+        {
+            "id": "BasicMod",
+            "searchTerms": ["FirstMod", "basicmod"],
+            "url": "coding/fullGuide/gettingStarted/BasicMod"
+        },
+        {
+            "id": "Info",
+            "searchTerms": ["Info", "info"],
+            "url": "coding/officialGuide/Info"
+        },
+        {
+            "id": "RequiredTools",
+            "searchTerms": ["RequiredTools", "Requirements", "tools"],
+            "url": "coding/officialGuide/RequiredTools"
+        },
+        {
+            "id": "ProjectSetup",
+            "searchTerms": ["ProjectSetup", "Setup"],
+            "url": "coding/officialGuide/ProjectSetup"
+        },
+        {
+            "id": "BuildRun",
+            "searchTerms": ["BuildRun"],
+            "url": "coding/officialGuide/BuildRun"
+        },
+        {
+            "id": "FirstMod",
+            "searchTerms": ["FirstMod"],
+            "url": "coding/officialGuide/FirstMod"
+        },
+        {
+            "id": "Debugging",
+            "searchTerms": ["Debugging", "debugging"],
+            "url": "coding/officialGuide/Debugging"
+        },
+        {
+            "id": "GameModding",
+            "searchTerms": ["GameModding"],
+            "url": "coding/officialGuide/GameModding"
+        },
+        {
+            "id": "FinalWords",
+            "searchTerms": ["FinalWords"],
+            "url": "coding/officialGuide/FinalWords"
+        },
+        {
+            "id": "ItemIDs",
+            "searchTerms": ["ItemIDs"],
+            "url": "coding/reference/ItemIDs"
+        },
+        {
+            "id": "ModuleIDs",
+            "searchTerms": ["ModuleIDs"],
+            "url": "coding/reference/ModuleIDs"
+        },
+        {
+            "id": "RecipeIDs",
+            "searchTerms": ["RecipeIDs"],
+            "url": "coding/reference/RecipeIDs"
+        },
+        {
+            "id": "RecipeTimes",
+            "searchTerms": ["RecipeTimes"],
+            "url": "coding/reference/RecipeTimes"
+        },
+        {
+            "id": "ItemStacks",
+            "searchTerms": ["ItemStacks"],
+            "url": "coding/reference/ItemStacks"
+        },
+        {
+            "id": "QuestOrder",
+            "searchTerms": ["QuestOrder"],
+            "url": "coding/reference/QuestOrder"
+        },
+        {
+            "id": "GUID",
+            "searchTerms": ["GUID"],
+            "url": "coding/reference/GUID"
+        },
+        {
+            "id": "ItemGUIDs",
+            "searchTerms": ["ItemGUIDs"],
+            "url": "coding/reference/GUID/ItemGUIDs"
+        },
+        {
+            "id": "ModuleGUIDs",
+            "searchTerms": ["ModuleGUIDs"],
+            "url": "coding/reference/GUID/ModuleGUIDs"
+        },
+        {
+            "id": "RecipeGUIDs",
+            "searchTerms": ["RecipeGUIDs"],
+            "url": "coding/reference/GUID/RecipeGUIDs"
         }
-      ]
-    },
-    {
-      "id": "designing",
-      "searchTerms": ["designing", "Designing", "designer", "Designer"],
-      "url": "designing/",
-      "data": []
-    },
-    {
-      "id": "docs",
-      "url": "docs/",
-      "searchTerms": [
-        "docs",
-        "Docs",
-        "InstallingMods",
-        "installingmods",
-        "Installingmods",
-        "installingMods"
-      ],
-      "data": [
-        {
-          "id": "ModList",
-          "searchTerms": ["ModList", "Modlist", "modList", "modlist"],
-          "url": "docs/ModList",
-          "data": []
-        }
-      ]
-    }
-  ]
+    ]
 }
