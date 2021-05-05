@@ -1,0 +1,175 @@
+{
+    "baseURL": "https://modding.melodicalbuild.me/",
+    "data": [
+        {
+            "id": "coding",
+            "searchTerms": ["coding"],
+            "url": "coding/"
+        },
+        {
+            "id": "designing",
+            "searchTerms": ["designing", "designer"],
+            "url": "designing/"
+        },
+        {
+            "id": "docs",
+            "url": "docs/",
+            "searchTerms": ["docs", "InstallingMods"]
+        },
+        {
+            "id": "fullGuide",
+            "searchTerms": ["FullGuide"],
+            "url": "coding/fullGuide/"
+        },
+        {
+            "id": "officialGuide",
+            "searchTerms": ["OfficialGuide"],
+            "url": "coding/officialGuide/"
+        },
+        {
+            "id": "EditingQuests",
+            "searchTerms": ["EditingQuests"],
+            "url": "coding/snippits/EditingQuests"
+        },
+        {
+            "id": "StationUIText",
+            "searchTerms": ["StationUIText"],
+            "url": "coding/snippits/StationUIText"
+        },
+        {
+            "id": "Snippits",
+            "searchTerms": ["Snippits"],
+            "url": "coding/snippits"
+        },
+        {
+            "id": "reference",
+            "searchTerms": ["Reference"],
+            "url": "coding/reference"
+        },
+        {
+            "id": "ModList",
+            "searchTerms": ["ModList", "Modlist", "modList", "modlist"],
+            "url": "docs/ModList"
+        },
+        {
+            "id": "Introduction",
+            "searchTerms": ["introduction"],
+            "url": "Introduction"
+        },
+        {
+            "id": "TheBeginning",
+            "searchTerms": ["TheBeginning", "Beginning"],
+            "url": "coding/fullGuide/gettingStarted/TheBeginning"
+        },
+        {
+            "id": "RequiredTools",
+            "searchTerms": ["RequiredTools", "Requirements", "tools"],
+            "url": "coding/fullGuide/gettingStarted/RequiredTools"
+        },
+        {
+            "id": "GettingStarted",
+            "searchTerms": ["GettingStarted"],
+            "url": "coding/fullGuide/gettingStarted/GettingStarted"
+        },
+        {
+            "id": "ProjectSetup",
+            "searchTerms": ["ProjectSetup", "Setup"],
+            "url": "coding/fullGuide/gettingStarted/ProjectSetup"
+        },
+        {
+            "id": "BasicMod",
+            "searchTerms": ["FirstMod", "basicmod"],
+            "url": "coding/fullGuide/gettingStarted/BasicMod"
+        },
+        {
+            "id": "Info",
+            "searchTerms": ["Info", "info"],
+            "url": "coding/officialGuide/Info"
+        },
+        {
+            "id": "RequiredTools",
+            "searchTerms": ["RequiredTools", "Requirements", "tools"],
+            "url": "coding/officialGuide/RequiredTools"
+        },
+        {
+            "id": "ProjectSetup",
+            "searchTerms": ["ProjectSetup", "Setup"],
+            "url": "coding/officialGuide/ProjectSetup"
+        },
+        {
+            "id": "BuildRun",
+            "searchTerms": ["BuildRun"],
+            "url": "coding/officialGuide/BuildRun"
+        },
+        {
+            "id": "FirstMod",
+            "searchTerms": ["FirstMod"],
+            "url": "coding/officialGuide/FirstMod"
+        },
+        {
+            "id": "Debugging",
+            "searchTerms": ["Debugging", "debugging"],
+            "url": "coding/officialGuide/Debugging"
+        },
+        {
+            "id": "GameModding",
+            "searchTerms": ["GameModding"],
+            "url": "coding/officialGuide/GameModding"
+        },
+        {
+            "id": "FinalWords",
+            "searchTerms": ["FinalWords"],
+            "url": "coding/officialGuide/FinalWords"
+        },
+        {
+            "id": "ItemIDs",
+            "searchTerms": ["ItemIDs"],
+            "url": "coding/reference/ItemIDs"
+        },
+        {
+            "id": "ModuleIDs",
+            "searchTerms": ["ModuleIDs"],
+            "url": "coding/reference/ModuleIDs"
+        },
+        {
+            "id": "RecipeIDs",
+            "searchTerms": ["RecipeIDs"],
+            "url": "coding/reference/RecipeIDs"
+        },
+        {
+            "id": "RecipeTimes",
+            "searchTerms": ["RecipeTimes"],
+            "url": "coding/reference/RecipeTimes"
+        },
+        {
+            "id": "ItemStacks",
+            "searchTerms": ["ItemStacks"],
+            "url": "coding/reference/ItemStacks"
+        },
+        {
+            "id": "QuestOrder",
+            "searchTerms": ["QuestOrder"],
+            "url": "coding/reference/QuestOrder"
+        },
+        {
+            "id": "GUID",
+            "searchTerms": ["GUID"],
+            "url": "coding/reference/GUID"
+        },
+        {
+            "id": "ItemGUIDs",
+            "searchTerms": ["ItemGUIDs"],
+            "url": "coding/reference/GUID/ItemGUIDs"
+        },
+        {
+            "id": "ModuleGUIDs",
+            "searchTerms": ["ModuleGUIDs"],
+            "url": "coding/reference/GUID/ModuleGUIDs"
+        },
+        {
+            "id": "RecipeGUIDs",
+            "searchTerms": ["RecipeGUIDs"],
+            "url": "coding/reference/GUID/RecipeGUIDs"
+        }
+    ]
+}
