@@ -8,7 +8,7 @@ module.exports.run = async (client, message, args) => {
   } else {
 
     var needle = args[0].toLowerCase();
-    var foundEntries = []; // Whatever the JS version is.
+    var foundEntries = [];
 
     moddingJSON.data.forEach((dataEntry) => {
       dataEntry.searchTerms.forEach((haystackElement) => {
